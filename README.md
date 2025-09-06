@@ -1,6 +1,5 @@
 # Customer-Churn-Analysis
 
-# Customer Churn Analysis
 
 This project focuses on analyzing customer churn in a telecommunications company. By understanding the factors that contribute to churn, the company can develop strategies to improve customer retention.
 
